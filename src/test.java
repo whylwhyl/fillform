@@ -15,85 +15,81 @@ public class test {
     String applicantDocEditionDay;
     String applicantDocEditionMonth;
     String applicantDocEditionYear;
-    /*
-    applicantDocValidityDay
-            applicantDocValidityMonth
-    applicantDocValidityYear
-            checkboxApplicantConfirmationDocTypeVisa
-    checkboxApplicantConfirmationDocTypeResidence
-            checkboxApplicantConfirmationDocTypeTemporaryResidencePermit
-    applicantConfirmationDocSeries
-            applicantConfirmationDocNumber
-    applicantConfirmationDocEditionDay
-            applicantConfirmationDocEditionMonth
-    applicantConfirmationDocEditionYear
-            applicantConfirmationDocValidityDay
-    applicantConfirmationDocValidityMonth
-            applicantConfirmationDocValidityYear
-    checkboxApplicantPurposeOfEntryOfficial
-            checkboxApplicantPurposeOfEntryTourism
-    checkboxApplicantPurposeOfEntryBusiness
-            checkboxApplicantPurposeOfEntryEducation
-    checkboxApplicantPurposeOfEntryWork
-            checkboxApplicantPurposeOfEntryPrivate
-    checkboxApplicantPurposeOfEntryTransit
-            checkboxApplicantPurposeOfEntryHumanitarian
-    checkboxApplicantPurposeOfEntryOther
-            applicantProfession
-    applicantEntryDay
-            applicantEntryMonth
-    applicantEntryYear
-            applicantTenureDay
-    applicantTenureMonth
-            applicantTenureYear
-    applicantMigrationCardSeries
-            applicantMigrationCardNumber
-    applicantLegalRepresentatives1
-            applicantLegalRepresentatives2
-    applicantLegalRepresentatives3
-            applicantLegalRepresentatives4
-    applicantLegalRepresentatives5
-    applicantResidenceRegion
-            applicantResidenceDistrict
-    applicantResidenceLocality
-            applicantResidenceStreet
-    applicantResidenceHouse
-            applicantResidencePavilion
-    applicantResidenceBuilding
-            applicantResidenceApartment
-            applicantResidenceTelephone
-    checkboxHostTypeOrganization
-            checkboxHostTypeIndividual
-    hostLastName
-            hostBirthDay
-    hostBirthMonth
-            hostBirthYear
-    hostFirstNameAndPatronymic
-            hostDocType
-    hostDocSeries
-            hostDocNumber
-    hostDocEditionDay
-            hostDocEditionMonth
-    hostDocEditionYear
-            hostDocValidityDay
-    hostDocValidityMonth
-            hostDocValidityYear
-    hostResidenceRegion
-            hostResidenceDistrict
-    hostResidenceLocality
-            hostResidenceStreet
-    hostResidenceHouse
-            hostResidencePavilion
-    hostResidenceBuilding
-            hostResidenceApartment
-    hostResidenceTelephone
-            hostOrganization1
-    hostOrganization2
-            hostOrganizationAddress1
-    hostOrganizationAddress2
-            hostINN
-    applicantDepartureDay
-            applicantDepartureMonth
-    applicantDepartureYear
-            */
+    String applicantDocValidityDay;
+    String applicantDocValidityMonth;
+    String applicantDocValidityYear;
+    Boolean checkboxApplicantConfirmationDocTypeVisa;
+    Boolean checkboxApplicantConfirmationDocTypeResidence;
+    Boolean checkboxApplicantConfirmationDocTypeTemporaryResidencePermit;
+    String applicantConfirmationDocSeries;
+    String applicantConfirmationDocNumber;
+    String applicantConfirmationDocEditionDay;
+    String applicantConfirmationDocEditionMonth;
+    String applicantConfirmationDocEditionYear;
+    String applicantConfirmationDocValidityDay;
+    String applicantConfirmationDocValidityMonth;
+    String applicantConfirmationDocValidityYear;
+    String checkboxApplicantPurposeOfEntryOfficial;
+    String checkboxApplicantPurposeOfEntryTourism;
+    String checkboxApplicantPurposeOfEntryBusiness;
+    String checkboxApplicantPurposeOfEntryEducation;
+    String checkboxApplicantPurposeOfEntryWork;
+    String checkboxApplicantPurposeOfEntryPrivate;
+    String checkboxApplicantPurposeOfEntryTransit;
+    String checkboxApplicantPurposeOfEntryHumanitarian;
+    Boolean checkboxApplicantPurposeOfEntryOther;
+    String applicantProfession;
+    String applicantEntryDay;
+    String applicantEntryMonth;
+    String applicantEntryYear;
+    String applicantTenureDay;
+    String applicantTenureMonth;
+    String applicantTenureYear;
+    String applicantMigrationCardSeries;
+    String applicantMigrationCardNumber;
+    String applicantLegalRepresentatives1;
+    String applicantLegalRepresentatives2;
+    String applicantLegalRepresentatives3;
+    String applicantLegalRepresentatives4;
+    String applicantLegalRepresentatives5;
+    String applicantResidenceRegion;
+    String applicantResidenceDistrict;
+    String applicantResidenceLocality;
+    String applicantResidenceStreet;
+    String applicantResidenceHouse;
+    String applicantResidencePavilion;
+    String applicantResidenceBuilding;
+    String applicantResidenceApartment;
+    String applicantResidenceTelephone;
+    Boolean checkboxHostTypeOrganization;
+    Boolean checkboxHostTypeIndividual;
+    String hostLastName;
+    String hostBirthDay;
+    String hostBirthMonth;
+    String hostBirthYear;
+    String hostFirstNameAndPatronymic;
+    String hostDocType;
+    String hostDocSeries;
+    String hostDocNumber;
+    String hostDocEditionDay;
+    String hostDocEditionMonth;
+    String hostDocEditionYear;
+    String hostDocValidityDay;
+    String hostDocValidityMonth;
+    String hostDocValidityYear;
+    String hostResidenceRegion;
+    String hostResidenceDistrict;
+    String hostResidenceLocality;
+    String hostResidenceStreet;
+    String hostResidenceHouse;
+    String hostResidencePavilion;
+    String hostResidenceBuilding;
+    String hostResidenceApartment;
+    String hostResidenceTelephone;
+    String hostOrganization1;
+    String hostOrganizationAddress1;
+    String hostINN;
+    String applicantDepartureDay;
+    String applicantDepartureMonth;
+    String applicantDepartureYear;
 }
